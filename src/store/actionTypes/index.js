@@ -1,0 +1,8 @@
+//browser
+const BROWSER_RESIZE = 'BROWSER_RESIZE';
+const BROWSER_SCROLL = 'BROWSER_SCROLL';
+
+export {
+    BROWSER_RESIZE,
+    BROWSER_SCROLL
+}
