@@ -121,9 +121,6 @@ module.exports = {
                         {
                             loader: 'less-loader',
                             options: {
-                                modifyVars: {
-                                    'icon-url' : '/fonts/font_zck90zmlh7hf47vi'
-                                },
                                 sourceMap: true,
                                 javascriptEnabled: true
                             }
